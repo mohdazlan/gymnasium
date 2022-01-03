@@ -44,3 +44,12 @@ a:hover{
 .navitem{
     font-family: 'Montserrat', sans-serif;
 }
+
+.benefits-text {
+    color: whitesmoke;
+}
+
+footer {
+    height: 80px;
+    color: whitesmoke;
+}
